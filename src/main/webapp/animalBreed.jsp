@@ -7,9 +7,9 @@
 <h1>Chris, Dave and Jeff's Animal Shelter</h1>
 <nav>
     <ul>
-        <li><a href="animalList.html">List Animals</a></li>
-        <li><a href="animalAddForm.html">Add an Animal</a></li>
-        <li><a href="animalType.html">Manage Animal Types</a> </li>
+        <li><a href="animalList.jsp">List Animals</a></li>
+        <li><a href="animalAddForm.jsp">Add an Animal</a></li>
+        <li><a href="animalType.jsp">Manage Animal Types</a> </li>
     </ul>
 </nav>
 

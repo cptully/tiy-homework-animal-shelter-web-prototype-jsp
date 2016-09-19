@@ -8,8 +8,8 @@
 <h1>Chris, Dave and Jeff's Animal Shelter</h1>
 <nav>
     <ul>
-        <li><a href="animalList.html">List Animals</a></li>
-        <li><a href="animalAddForm.html">Add an Animal</a></li>
+        <li><a href="animalList.jsp">List Animals</a></li>
+        <li><a href="animalAddForm.jsp">Add an Animal</a></li>
     </ul>
 </nav>
 

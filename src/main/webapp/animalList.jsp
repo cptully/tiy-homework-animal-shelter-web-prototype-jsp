@@ -8,10 +8,10 @@
 
     <nav>
         <ul>
-            <li><a href="animalList.html">List Animals</a></li>
-            <li><a href="animalAddForm.html">Add an Animal</a></li>
-            <li><a href="animalType.html">Manage Animal Types</a></li>
-            <li><a href="animalBreed.html">Manage Animal Breeds</a></li>
+            <li><a href="animalList.jsp">List Animals</a></li>
+            <li><a href="animalAddForm.jsp">Add an Animal</a></li>
+            <li><a href="animalType.jsp">Manage Animal Types</a></li>
+            <li><a href="animalBreed.jsp">Manage Animal Breeds</a></li>
         </ul>
     </nav>
 
@@ -70,12 +70,12 @@
         <img src="images/captainmycaptain.jpg" />
 
         <div class="detail">
-            <a href="animalForm.html">Myst</a><br/>
+            <a href="animalForm.jsp">Myst</a><br/>
             <strong>Type:</strong> Cat<br/>
             <strong>Breed:</strong> Calico<br/>
             <strong>Color:</strong> Grey<br/>
             <strong>Description:</strong> skittish but like to chase laser pointers<br/>
-            <strong>Notes:</strong> <a href="animalNotes.html">3 notes</a><br/>
+            <strong>Notes:</strong> <a href="animalNotes.jsp">3 notes</a><br/>
         </div>
     </div>
 
